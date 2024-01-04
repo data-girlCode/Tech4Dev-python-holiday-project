@@ -20,6 +20,7 @@ at least it always gets on one's nerves – which is the same thing nowadays."
 
 
 EXERCISE 2 
+
 SOFTWARE DEVELOPMENT – List, Tuple Python programming exercises
 
 1. Write a program that finds the maximum value of the given list, assuming that the list contains at least one element. Try your program with the following array: 2, 4, 7, 4, 23, 5, 1, 4, 8, 9
